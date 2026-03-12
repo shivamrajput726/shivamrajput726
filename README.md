@@ -1,11 +1,15 @@
 # 👋 Hi, I'm Shivam Rajput
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=DevOps+Engineer+in+Progress;Cloud+%26+Automation+Enthusiast;CI/CD+Pipeline+Builder;AWS+%7C+Docker+%7C+Terraform&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=DevOps+Engineer+in+Progress;Cloud+Automation+Enthusiast;CI/CD+Pipeline+Builder;AWS+%7C+Docker+%7C+Terraform;Linux+%7C+Git+%7C+Jenkins">
 </p>
 
-🚀 DevOps & Cloud Enthusiast
-🔧 Passionate about Automation, CI/CD, and Cloud Infrastructure
+---
+
+# 🚀 DevOps & Cloud Enthusiast
+
+🔧 Passionate about **Automation, CI/CD, and Cloud Infrastructure**
+☁️ Building scalable applications using **AWS & DevOps tools**
 
 ---
 
@@ -14,10 +18,20 @@
 * 🔭 Working on **CI/CD pipelines using GitHub Actions & Jenkins**
 * ☁️ Deploying applications on **AWS using Docker**
 * 🛠 Interested in **DevOps, Infrastructure as Code, and Cloud Automation**
-* 🌱 Currently learning **Kubernetes & advanced DevOps practices**
+* 🌱 Currently learning **Kubernetes, Monitoring & Production DevOps**
 * 💬 Ask me about **AWS, Linux, CI/CD pipelines, and DevOps roadmap**
 
 ⚡ Fun fact: *I enjoy automating tasks and breaking things just to fix them better.*
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/shivamrajput726">
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
@@ -99,6 +113,12 @@
 
 ---
 
+# 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
 # 👀 Profile Visitors
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=shivamrajput726\&icon=0\&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=shivamrajput726\&label=Profile%20Views\&color=0e75b6\&style=for-the-badge)
