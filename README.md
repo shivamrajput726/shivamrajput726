@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shivam Rajput
+# 👋 Hi, I'm Shivam Kumar
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=DevOps+Engineer+in+Progress;Cloud+Automation+Enthusiast;CI/CD+Pipeline+Builder;AWS+%7C+Docker+%7C+Terraform;Linux+%7C+Git+%7C+Jenkins">
