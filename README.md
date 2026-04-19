@@ -1,5 +1,17 @@
----
+<h1 align="center">Hi 👋, I'm Shivam Rajput</h1>
+<h3 align="center">DevOps Engineer • Cloud & Automation Enthusiast</h3>
 
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]()
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=shivamrajput726&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 ## 🚀 About Me
 
 <p align="center">
@@ -109,3 +121,4 @@ DevOps Engineer focused on building scalable infrastructure, automating CI/CD pi
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=shivamrajput726&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
 </p>
+
