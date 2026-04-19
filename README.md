@@ -1,4 +1,4 @@
-<h1 align="center">Shivam Kumar</h1>
+<h1 align="center">Shivam Rajput</h1>
 <p align="center">
 DevOps Engineer • Cloud Infrastructure • Automation
 </p>
