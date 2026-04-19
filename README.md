@@ -1,79 +1,119 @@
-<h1 align="center">Hi 👋, I'm Shivam Rajput</h1>
-<h3 align="center">DevOps Engineer • Cloud & Automation Enthusiast</h3>
-
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]()
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=shivamrajput726&label=Profile%20views&color=0e75b6&style=flat" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=250&section=header&text=Shivam%20Rajput&fontSize=45&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20Cloud%20Automation&descAlignY=60&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI/CD+Pipeline+Builder;Automation+%7C+Cloud+Infrastructure"/>
 </p>
 
 ---
 
-* 🔭 I’m currently working on **DevOps Projects (CI/CD, Docker, AWS)**
-* 🌱 I’m currently learning **Kubernetes, Monitoring & Production DevOps**
-* 👯 I’m looking to collaborate on **Cloud & Automation Projects**
-* 🤝 I’m looking for help with **Advanced DevOps practices**
-* 👨‍💻 All of my projects are available at **GitHub**
-* 💬 Ask me about **AWS, Docker, CI/CD, Linux**
-* 📫 How to reach me **[srajput132272@gmail.com](mailto:srajput132272@gmail.com)**
-* ⚡ Fun fact **I love automating things and building scalable systems**
+## 🚀 About Me
+
+<p align="center">
+Building scalable systems • Automating workflows • Learning production DevOps
+</p>
 
 ---
 
-## 🌐 Connect with me:
+## ⚙️ Tech Stack
 
-<p align="left">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,git,github,linux,python,bash&theme=dark" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔹 CI/CD Pipeline
+
+* GitHub Actions + Jenkins
+* Automated build & deployment
+* Docker integration
+
+</td>
+<td width="50%">
+
+### 🔹 AWS Deployment
+
+* EC2 + S3 + IAM + VPC
+* Secure infrastructure
+* Scalable setup
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔹 Dockerized App
+
+* Containerized full stack app
+* Easy deployment
+* Consistent environment
+
+</td>
+<td width="50%">
+
+### 🔹 Terraform Infra
+
+* Infrastructure as Code
+* Automated provisioning
+* Cloud automation
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shivamrajput726&show_icons=true&theme=tokyonight&border_radius=10" height="160"/>
+<img src="https://streak-stats.demolab.com?user=shivamrajput726&theme=tokyonight&border_radius=10" height="160"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamrajput726&layout=compact&theme=tokyonight&border_radius=10" height="150"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamrajput726&theme=tokyo-night"/>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+<a href="mailto:srajput132272@gmail.com">
+<img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
 <a href="https://github.com/shivamrajput726">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+<img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 </p>
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivamrajput726\&theme=github)
+## 👀 Profile Views
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamrajput726&theme=radical" />
-</p>
-
-</div>
-
----
-
-## ⚙️ Tools & Technologies
-
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
-
-</p>
-
----
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamrajput726&show_icons=true&layout=compact" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamrajput726&show_icons=true" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamrajput726" />
+<img src="https://komarev.com/ghpvc/?username=shivamrajput726&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
 </p>
