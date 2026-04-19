@@ -1,104 +1,85 @@
+<h1 align="center">Shivam Kumar</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E90FF&height=220&section=header&text=Shivam%20Rajput&fontSize=40&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Cloud%20Builder&descAlignY=55"/>
+DevOps Engineer • Cloud Infrastructure • Automation
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI/CD+Automation;Cloud+Infrastructure+Builder">
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-```yaml
-Name: Shivam Kumar
-Role: DevOps Engineer (Learning Phase)
-Focus:
-  - CI/CD Automation
-  - Cloud Infrastructure (AWS)
-  - Containerization (Docker)
-  - Infrastructure as Code (Terraform)
-
-Currently:
-  - Learning Kubernetes & Monitoring
-  - Building Real DevOps Projects
-```
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 CI/CD Pipeline Project
-
-* Jenkins + GitHub Actions + Docker
-* Automated build, test & deployment
-
-### 🔹 AWS Deployment Project
-
-* EC2 + S3 + IAM setup
-* Production-ready infrastructure
-
-### 🔹 Dockerized App
-
-* Containerized full-stack application
-
----
-
-## ⚙️ Tech Stack
-
-### 🚀 DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge\&logo=terraform)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins)
-
-### ☁️ Cloud
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
-
-### 💻 Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnu-bash)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamrajput726&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shivamrajput726&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamrajput726&layout=compact&theme=tokyonight" height="150"/>
+<a href="mailto:yourmail@gmail.com">Email</a> •
+<a href="https://github.com/shivamrajput726">GitHub</a> •
+<a href="#">LinkedIn</a>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## Summary
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivamrajput726\&theme=tokyo-night)
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+DevOps-focused engineering student with hands-on experience in CI/CD pipelines, cloud infrastructure, and containerized deployments. Strong interest in automation, infrastructure as code, and scalable system design.
 
 ---
 
-## 🌐 Connect With Me
+## Skills
+
+**Cloud & Infrastructure**
+AWS (EC2, S3, IAM, VPC)
+
+**DevOps & CI/CD**
+GitHub Actions, Jenkins, Docker, Terraform
+
+**Systems & Scripting**
+Linux, Bash, Python
+
+**Web Basics**
+HTML, CSS
+
+---
+
+## Projects
+
+### CI/CD Pipeline Automation
+
+* Designed and implemented CI/CD pipelines using GitHub Actions and Jenkins
+* Automated build, testing, and deployment workflows
+* Integrated Docker for containerized delivery
+
+### AWS Infrastructure Deployment
+
+* Provisioned infrastructure using AWS services (EC2, S3, IAM, VPC)
+* Applied security best practices and access control
+
+### Dockerized Application
+
+* Containerized full-stack application using Docker
+* Improved deployment consistency and scalability
+
+---
+
+## GitHub Metrics
 
 <p align="center">
-<a href="https://github.com/shivamrajput726">
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamrajput726&show_icons=true&theme=default" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shivamrajput726&theme=default" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamrajput726&layout=compact&theme=default" height="150"/>
 </p>
 
 ---
 
-## 👀 Profile Visitors
+## Activity
 
-![Profile Views](https://komarev.com/ghpvc/?username=shivamrajput726\&label=Profile%20Views\&color=0e75b6\&style=for-the-badge)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivamrajput726\&theme=github)
+
+---
+
+## Current Focus
+
+* Kubernetes and container orchestration
+* Monitoring and observability (Prometheus, Grafana)
+* Production-grade DevOps practices
+
+---
+
+## Contact
+
+Email: [yourmail@gmail.com](mailto:yourmail@gmail.com)
