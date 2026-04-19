@@ -1,85 +1,79 @@
-<h1 align="center">Shivam Rajput</h1>
-<p align="center">
-DevOps Engineer • Cloud Infrastructure • Automation
+<h1 align="center">Hi 👋, I'm Shivam Rajput</h1>
+<h3 align="center">DevOps Engineer • Cloud & Automation Enthusiast</h3>
+
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]()
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=shivamrajput726&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-<a href="mailto:yourmail@gmail.com">Email</a> •
-<a href="https://github.com/shivamrajput726">GitHub</a> •
-<a href="#">LinkedIn</a>
-</p>
-
----
-
-## Summary
-
-DevOps-focused engineering student with hands-on experience in CI/CD pipelines, cloud infrastructure, and containerized deployments. Strong interest in automation, infrastructure as code, and scalable system design.
-
----
-
-## Skills
-
-**Cloud & Infrastructure**
-AWS (EC2, S3, IAM, VPC)
-
-**DevOps & CI/CD**
-GitHub Actions, Jenkins, Docker, Terraform
-
-**Systems & Scripting**
-Linux, Bash, Python
-
-**Web Basics**
-HTML, CSS
-
----
-
-## Projects
-
-### CI/CD Pipeline Automation
-
-* Designed and implemented CI/CD pipelines using GitHub Actions and Jenkins
-* Automated build, testing, and deployment workflows
-* Integrated Docker for containerized delivery
-
-### AWS Infrastructure Deployment
-
-* Provisioned infrastructure using AWS services (EC2, S3, IAM, VPC)
-* Applied security best practices and access control
-
-### Dockerized Application
-
-* Containerized full-stack application using Docker
-* Improved deployment consistency and scalability
-
----
-
-## GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamrajput726&show_icons=true&theme=default" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shivamrajput726&theme=default" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamrajput726&layout=compact&theme=default" height="150"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivamrajput726\&theme=github)
-
----
-
-## Current Focus
-
-* Kubernetes and container orchestration
-* Monitoring and observability (Prometheus, Grafana)
-* Production-grade DevOps practices
+* 🔭 I’m currently working on **DevOps Projects (CI/CD, Docker, AWS)**
+* 🌱 I’m currently learning **Kubernetes, Monitoring & Production DevOps**
+* 👯 I’m looking to collaborate on **Cloud & Automation Projects**
+* 🤝 I’m looking for help with **Advanced DevOps practices**
+* 👨‍💻 All of my projects are available at **GitHub**
+* 💬 Ask me about **AWS, Docker, CI/CD, Linux**
+* 📫 How to reach me **[srajput132272@gmail.com](mailto:srajput132272@gmail.com)**
+* ⚡ Fun fact **I love automating things and building scalable systems**
 
 ---
 
-## Contact
+## 🌐 Connect with me:
 
-Email: [yourmail@gmail.com](mailto:yourmail@gmail.com)
+<p align="left">
+<a href="https://github.com/shivamrajput726">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivamrajput726\&theme=github)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamrajput726&theme=radical" />
+</p>
+
+</div>
+
+---
+
+## ⚙️ Tools & Technologies
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
+
+</p>
+
+---
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamrajput726&show_icons=true&layout=compact" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamrajput726&show_icons=true" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamrajput726" />
+</p>
