@@ -1,17 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=250&section=header&text=Shivam%20Rajput&fontSize=45&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20Cloud%20Automation&descAlignY=60&animation=fadeIn"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI/CD+Pipeline+Builder;Automation+%7C+Cloud+Infrastructure"/>
-</p>
-
 ---
 
 ## 🚀 About Me
 
 <p align="center">
-Building scalable systems • Automating workflows • Learning production DevOps
+DevOps Engineer focused on building scalable infrastructure, automating CI/CD pipelines, and working with cloud-native technologies.
 </p>
 
 ---
@@ -33,17 +25,17 @@ Building scalable systems • Automating workflows • Learning production DevOp
 ### 🔹 CI/CD Pipeline
 
 * GitHub Actions + Jenkins
-* Automated build & deployment
+* Automated build, test & deployment
 * Docker integration
 
 </td>
 <td width="50%">
 
-### 🔹 AWS Deployment
+### 🔹 AWS Infrastructure
 
 * EC2 + S3 + IAM + VPC
-* Secure infrastructure
-* Scalable setup
+* Secure & scalable setup
+* Production-ready architecture
 
 </td>
 </tr>
@@ -51,20 +43,20 @@ Building scalable systems • Automating workflows • Learning production DevOp
 <tr>
 <td width="50%">
 
-### 🔹 Dockerized App
+### 🔹 Kubernetes Deployment
 
-* Containerized full stack app
-* Easy deployment
-* Consistent environment
+* Container orchestration using K8s
+* Scalable microservices deployment
+* Load balancing & auto-scaling
 
 </td>
 <td width="50%">
 
-### 🔹 Terraform Infra
+### 🔹 Terraform Automation
 
 * Infrastructure as Code
 * Automated provisioning
-* Cloud automation
+* Cloud resource management
 
 </td>
 </tr>
